@@ -1,0 +1,1 @@
+This repository contains a machine learning case study on climate change using the climate_change.csv dataset, analyzing the relationship between environmental factors and global temperature anomalies from 1983 to 2008.
